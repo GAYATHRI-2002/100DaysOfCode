@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100DaysOfPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/PositiveOr_Negative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Reverse_a_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Sum_of_Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/intro.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="python programs practiced">
+      <change afterPath="$PROJECT_DIR$/Day2/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/oop's/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/oop's/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/oop's/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GAYATHRI-2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GAYATHRI-2002/100DaysOfCode.git&quot;,
+    &quot;accountId&quot;: &quot;bf94e8fd-5a54-4966-af8f-d5f91402f84c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -43,10 +50,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Fibonacci.executor": "Run",
     "Python.PositiveOr_Negative.executor": "Run",
     "Python.Reverse_a_Number.executor": "Run",
     "Python.Sum_of_Digits.executor": "Run",
     "Python.intro.executor": "Run",
+    "Python.problem1.executor": "Run",
+    "Python.problem2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -67,6 +77,30 @@
       <option name="presentableId" value="Default" />
       <updated>1779687471248</updated>
     </task>
+    <task id="LOCAL-00001" summary="python programs practiced">
+      <option name="closed" value="true" />
+      <created>1779691337748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779691337748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python programs practiced" />
+    <option name="LAST_COMMIT_MESSAGE" value="python programs practiced" />
   </component>
 </project>
