@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="python programs practiced">
-      <change afterPath="$PROJECT_DIR$/Day2/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/oop's/intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/oop's/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/oop's/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/Greatest_Common_Divisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/cumulative_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/sum_pro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +52,11 @@
     "Python.PositiveOr_Negative.executor": "Run",
     "Python.Reverse_a_Number.executor": "Run",
     "Python.Sum_of_Digits.executor": "Run",
+    "Python.cumulative_range.executor": "Run",
     "Python.intro.executor": "Run",
     "Python.problem1.executor": "Run",
     "Python.problem2.executor": "Run",
+    "Python.sum_pro.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779691337748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python programs practiced">
+      <option name="closed" value="true" />
+      <created>1780337000650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780337000650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
