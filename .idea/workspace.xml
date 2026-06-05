@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="python programs practiced">
-      <change afterPath="$PROJECT_DIR$/Day4/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/stringSlicing.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="python programs practiced.">
+      <change afterPath="$PROJECT_DIR$/Day4/list_comprehension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "Python.Sum_of_Digits.executor": "Run",
     "Python.cumulative_range.executor": "Run",
     "Python.intro.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
     "Python.problem1.executor": "Run",
     "Python.problem2.executor": "Run",
     "Python.stringSlicing.executor": "Run",
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780594400571</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python programs practiced.">
+      <option name="closed" value="true" />
+      <created>1780680018707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780680018707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python programs practiced" />
-    <option name="LAST_COMMIT_MESSAGE" value="python programs practiced" />
+    <MESSAGE value="python programs practiced." />
+    <option name="LAST_COMMIT_MESSAGE" value="python programs practiced." />
   </component>
 </project>
