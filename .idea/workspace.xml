@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="python programs practiced.">
-      <change afterPath="$PROJECT_DIR$/Day4/list_comprehension.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="list comprehension problem">
+      <change afterPath="$PROJECT_DIR$/Days5/secondLargest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +55,12 @@
     "Python.list_comprehension.executor": "Run",
     "Python.problem1.executor": "Run",
     "Python.problem2.executor": "Run",
+    "Python.secondLargest.executor": "Run",
     "Python.stringSlicing.executor": "Run",
     "Python.sum_pro.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/July-2026/myProject"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780680018707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="list comprehension problem">
+      <option name="closed" value="true" />
+      <created>1780683322710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780683322710</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python programs practiced" />
     <MESSAGE value="python programs practiced." />
-    <option name="LAST_COMMIT_MESSAGE" value="python programs practiced." />
+    <MESSAGE value="list comprehension problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="list comprehension problem" />
   </component>
 </project>
