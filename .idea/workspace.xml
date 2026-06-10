@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="second Largest from array">
-      <change afterPath="$PROJECT_DIR$/Day1/list_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/done_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/natural_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/negative_numbers_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/occurance_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/sum_natural.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="Done some coding">
+      <change afterPath="$PROJECT_DIR$/Day7/dict_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/problem1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +53,8 @@
     "Python.Reverse_a_Number.executor": "Run",
     "Python.Sum_of_Digits.executor": "Run",
     "Python.cumulative_range.executor": "Run",
+    "Python.dict_loop.executor": "Run",
+    "Python.dictionaries.executor": "Run",
     "Python.done_message.executor": "Run",
     "Python.intro.executor": "Run",
     "Python.list_comprehension.executor": "Run",
@@ -138,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780942792817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Done some coding">
+      <option name="closed" value="true" />
+      <created>1781026429795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781026429795</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +164,7 @@
     <MESSAGE value="python programs practiced." />
     <MESSAGE value="list comprehension problem" />
     <MESSAGE value="second Largest from array" />
-    <option name="LAST_COMMIT_MESSAGE" value="second Largest from array" />
+    <MESSAGE value="Done some coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done some coding" />
   </component>
 </project>
