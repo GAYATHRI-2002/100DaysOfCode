@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="Dictionaries problems">
-      <change afterPath="$PROJECT_DIR$/Day8/common_elemt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/isdigit_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/pattern.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="New problems">
+      <change afterPath="$PROJECT_DIR$/Day1/lambda_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/arguments_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/list_comprehensions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,17 @@
     "Python.PositiveOr_Negative.executor": "Run",
     "Python.Reverse_a_Number.executor": "Run",
     "Python.Sum_of_Digits.executor": "Run",
+    "Python.arguments_python.executor": "Run",
     "Python.common_elemt.executor": "Run",
     "Python.cumulative_range.executor": "Run",
     "Python.dict_loop.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.done_message.executor": "Run",
     "Python.intro.executor": "Run",
+    "Python.isdigit_in.executor": "Run",
+    "Python.lambda_intro.executor": "Run",
     "Python.list_comprehension.executor": "Run",
+    "Python.list_comprehensions.executor": "Run",
     "Python.list_input.executor": "Run",
     "Python.natural_number.executor": "Run",
     "Python.negative_numbers_print.executor": "Run",
@@ -155,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781115222543</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New problems">
+      <option name="closed" value="true" />
+      <created>1781368095666</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781368095666</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +188,7 @@
     <MESSAGE value="second Largest from array" />
     <MESSAGE value="Done some coding" />
     <MESSAGE value="Dictionaries problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dictionaries problems" />
+    <MESSAGE value="New problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="New problems" />
   </component>
 </project>
