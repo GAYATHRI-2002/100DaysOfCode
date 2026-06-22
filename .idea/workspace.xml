@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="interview questions">
+      <change afterPath="$PROJECT_DIR$/music_app/billiboard_website_scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music_app/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,39 +45,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PositiveOr_Negative.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Reverse_a_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sum_of_Digits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arguments_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.common_elemt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cumulative_range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.done_message.executor&quot;: &quot;Run&quot;,
-    &quot;Python.intro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.isdigit_in.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lambda_intro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehensions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.natural_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.negative_numbers_print.executor&quot;: &quot;Run&quot;,
-    &quot;Python.occurance_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secondLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringSlicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_natural.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_pro.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/July-2026/myProject&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Fibonacci.executor": "Run",
+    "Python.PositiveOr_Negative.executor": "Run",
+    "Python.Reverse_a_Number.executor": "Run",
+    "Python.Sum_of_Digits.executor": "Run",
+    "Python.arguments_python.executor": "Run",
+    "Python.billiboard_website_scrap.executor": "Run",
+    "Python.common_elemt.executor": "Run",
+    "Python.cumulative_range.executor": "Run",
+    "Python.dict_loop.executor": "Run",
+    "Python.dictionaries.executor": "Run",
+    "Python.done_message.executor": "Run",
+    "Python.intro.executor": "Run",
+    "Python.isdigit_in.executor": "Run",
+    "Python.lambda_intro.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.list_comprehensions.executor": "Run",
+    "Python.list_input.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.natural_number.executor": "Run",
+    "Python.negative_numbers_print.executor": "Run",
+    "Python.occurance_num.executor": "Run",
+    "Python.pattern.executor": "Run",
+    "Python.problem1.executor": "Run",
+    "Python.problem2.executor": "Run",
+    "Python.secondLargest.executor": "Run",
+    "Python.stringSlicing.executor": "Run",
+    "Python.sum_natural.executor": "Run",
+    "Python.sum_pro.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Python_Programs/100DaysOfPython"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
