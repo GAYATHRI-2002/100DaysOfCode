@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="interview questions">
-      <change afterPath="$PROJECT_DIR$/music_app/billiboard_website_scrap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music_app/main.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="music slicing from website">
+      <change afterPath="$PROJECT_DIR$/Amazon Price tracker/amazonpricetracker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +50,7 @@
     "Python.PositiveOr_Negative.executor": "Run",
     "Python.Reverse_a_Number.executor": "Run",
     "Python.Sum_of_Digits.executor": "Run",
+    "Python.amazonpricetracker.executor": "Run",
     "Python.arguments_python.executor": "Run",
     "Python.billiboard_website_scrap.executor": "Run",
     "Python.common_elemt.executor": "Run",
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781517257495</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="music slicing from website">
+      <option name="closed" value="true" />
+      <created>1782106757800</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782106757800</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +207,7 @@
     <MESSAGE value="Dictionaries problems" />
     <MESSAGE value="New problems" />
     <MESSAGE value="interview questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="interview questions" />
+    <MESSAGE value="music slicing from website" />
+    <option name="LAST_COMMIT_MESSAGE" value="music slicing from website" />
   </component>
 </project>
