@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="music slicing from website">
-      <change afterPath="$PROJECT_DIR$/Amazon Price tracker/amazonpricetracker.py" afterDir="false" />
+    <list default="true" id="4b49625f-9647-45e4-92c8-f04d071e7d88" name="Changes" comment="web scrapping">
+      <change afterPath="$PROJECT_DIR$/Day2/day2_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day48/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/smallest_element.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +58,7 @@
     "Python.billiboard_website_scrap.executor": "Run",
     "Python.common_elemt.executor": "Run",
     "Python.cumulative_range.executor": "Run",
+    "Python.day2_.executor": "Run",
     "Python.dict_loop.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.done_message.executor": "Run",
@@ -72,6 +76,7 @@
     "Python.problem1.executor": "Run",
     "Python.problem2.executor": "Run",
     "Python.secondLargest.executor": "Run",
+    "Python.smallest_element.executor": "Run",
     "Python.stringSlicing.executor": "Run",
     "Python.sum_natural.executor": "Run",
     "Python.sum_pro.executor": "Run",
@@ -184,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782106757800</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="web scrapping">
+      <option name="closed" value="true" />
+      <created>1782231752757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782231752757</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +221,7 @@
     <MESSAGE value="New problems" />
     <MESSAGE value="interview questions" />
     <MESSAGE value="music slicing from website" />
-    <option name="LAST_COMMIT_MESSAGE" value="music slicing from website" />
+    <MESSAGE value="web scrapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="web scrapping" />
   </component>
 </project>
